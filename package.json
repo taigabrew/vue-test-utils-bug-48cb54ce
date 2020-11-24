@@ -1,0 +1,23 @@
+{
+  "name": "vite_vtu-emit-bug",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "jest"
+  },
+  "dependencies": {
+    "vue": "^3.0.2"
+  },
+  "devDependencies": {
+    "@babel/node": "^7.12.6",
+    "@babel/preset-env": "^7.12.1",
+    "@vue/compiler-sfc": "^3.0.2",
+    "@vue/test-utils": "^2.0.0-beta.8",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3",
+    "typescript": "^4.1.2",
+    "vite": "^1.0.0-rc.8",
+    "vue-jest": "^5.0.0-alpha.6"
+  }
+}
